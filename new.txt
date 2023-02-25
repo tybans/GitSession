@@ -1,3 +1,7 @@
 this is new file
+<<<<<<< HEAD
 back to the master branch
+=======
+this is new line in new1
+>>>>>>> new1
 
