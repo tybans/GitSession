@@ -3,5 +3,9 @@ this is new file
 back to the master branch
 =======
 this is new line in new1
+<<<<<<< Updated upstream
 >>>>>>> new1
+=======
+anything
+>>>>>>> Stashed changes
 
